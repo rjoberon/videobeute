@@ -1,11 +1,19 @@
-# Videobeute
+---
+title: Videobeute
+layout: home
+permalink: index.html
+description: Ein Filmbetrachter für Imkervereine
+---
 
-Zur 160-Jahrfeier unseres Imkervereins Wuhletal 1864 e.V. wollten wir
-den Besuchern gerne Lehrfilme zeigen. Aufgrund der sonnigen
-Lichtverhältnisse suchten wir nach Alternativen zu Projektion und
-Leinwand und kamen auf die Idee, einen Bildschirm in eine ausgediente
-Beute einzubauen. Somit war die Idee einer \"Videobeute\" als
-Ausstellungs- und Schulungsobjekt für unseren Bienenlehrgarten geboren.
+Zur 160-Jahrfeier unseres [Imkervereins Wuhletal 1864
+e.V.](https://imkerverein-wuhletal1864.de/) wollten wir den Besuchern
+gerne Lehrfilme zeigen. Aufgrund der sonnigen Lichtverhältnisse
+suchten wir nach Alternativen zu Projektion und Leinwand und kamen auf
+die Idee, einen Bildschirm in eine ausgediente Beute einzubauen. Somit
+war die Idee einer \"Videobeute\" als Ausstellungs- und
+Schulungsobjekt für unseren Bienenlehrgarten geboren.
+
+<img src="img/videobeute.jpg" alt="Die Videobeute im Bienenlehrgarten" style="float:right"/>
 
 # Material
 
@@ -21,7 +29,7 @@ Ausstellungs- und Schulungsobjekt für unseren Bienenlehrgarten geboren.
 # Software
 
 Auf dem Raspberry Pi läuft der Mediaplayer [mpv](https://mpv.io/) in
-einer Endlosschleife ([run.sh](run.sh)) in der verschiedene Lehrfilme
-gezeigt werden, darunter das Video
+einer Endlosschleife ([run.sh](bin/run.sh)) in der verschiedene
+Lehrfilme gezeigt werden, darunter das Video
 [Wabenbau](https://www.youtube.com/watch?v=MRuAMkRgnEE) von [Hansi
 Raber](https://www.youtube.com/hansiraber).
