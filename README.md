@@ -7,7 +7,7 @@ description: Ein Filmbetrachter für Imkervereine
 
 <a href="img/videobeute.jpg">
 <img src="img/videobeute.jpg" alt="Die Videobeute im Bienenlehrgarten"
-style="float:right; width:200px;"/></a>
+style="float:right; width:200px; margin-left: 10px;"/></a>
 
 Zur 160-Jahrfeier unseres [Imkervereins Wuhletal 1864
 e.V.](https://imkerverein-wuhletal1864.de/) wollten wir den Besuchern
@@ -35,3 +35,7 @@ einer Endlosschleife ([run.sh](bin/run.sh)) in der verschiedene
 Lehrfilme gezeigt werden, darunter das Video
 [Wabenbau](https://www.youtube.com/watch?v=MRuAMkRgnEE) von [Hansi
 Raber](https://www.youtube.com/hansiraber).
+
+# Dokumentation
+- [Git-Repo](https://github.com/rjoberon/videobeute)
+- [Infozettel](doc/infozettel.sla) (Scribus-Dokument)
