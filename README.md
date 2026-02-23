@@ -39,4 +39,4 @@ Raber](https://www.youtube.com/hansiraber).
 # Dokumentation
 - [Git-Repo](https://github.com/rjoberon/videobeute)
 - [Infozettel](doc/infozettel.sla) (Scribus-Dokument)
-- Fotos: [vorn](img/videobeute_vorn.jpg), [hinten](img/videobeute_hinten.jpg), [video](img/videobeute_video.jpg)
+- Fotos: [vorn](img/videobeute_vorn.jpg), [hinten](img/videobeute_hinten.jpg), [innen](img/videobeute_video.jpg)
