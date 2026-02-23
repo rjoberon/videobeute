@@ -14,9 +14,8 @@ e.V.](https://imkerverein-wuhletal1864.de/) wollten wir den Besuchern
 gerne Lehrfilme zeigen. Aufgrund der sonnigen Lichtverhältnisse
 suchten wir nach Alternativen zu Projektion und Leinwand und kamen auf
 die Idee, einen Bildschirm in eine ausgediente Beute einzubauen. Somit
-war die Idee einer \"Videobeute\" als Ausstellungs- und
-Schulungsobjekt für unseren Bienenlehrgarten geboren.
-
+war die "Videobeute" als Ausstellungs- und Schulungsobjekt für unseren
+Bienenlehrgarten geboren.
 
 # Material
 
