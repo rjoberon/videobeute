@@ -22,8 +22,8 @@ Bienenlehrgarten geboren.
 
 - Hinterbehandlungsbeute Deutsch-Normalmaß
 - 14-Zoll Flachbildschirm im Format 4:3
-- Raspberry Pi 3
-- Waveshare WM8960 Audio­HAT
+- [Raspberry Pi 3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
+- [Waveshare WM8960 Audio­HAT](https://www.waveshare.com/wiki/WM8960_Audio_HAT)
 - zwei kleine Lautsprecher
 - ggf. zwei Taster zur Lautstärkeregelung
 - USB-Netzteil
