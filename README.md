@@ -7,7 +7,7 @@ description: Ein Filmbetrachter für Imkervereine
 
 <a href="img/videobeute.jpg">
 <img src="img/videobeute.jpg" alt="Die Videobeute im Bienenlehrgarten"
-style="float:right; width=200px;"/></a>
+style="float:right; width:200px;"/></a>
 
 Zur 160-Jahrfeier unseres [Imkervereins Wuhletal 1864
 e.V.](https://imkerverein-wuhletal1864.de/) wollten wir den Besuchern
