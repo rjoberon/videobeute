@@ -1,0 +1,15 @@
+title: Videobeute
+tagline: Ein Filmbetrachter für Imkervereine
+description: >- # this means to ignore newlines until "baseurl:"
+  Die Videobeute ermöglicht das Betrachten von Filmen und Bildern auch
+  bei ungünstigen Lichtverhältnissen (Sonne).
+url: https://videobeute.igada.de
+baseurl: "" # the subpath of your site, e.g. /blog
+github_username:  rjoberon
+
+# Build settings
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
