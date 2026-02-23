@@ -3,6 +3,7 @@ title: Videobeute
 layout: home
 permalink: index.html
 description: Ein Filmbetrachter für Imkervereine
+exclude: true
 ---
 
 <a href="img/videobeute.jpg">
