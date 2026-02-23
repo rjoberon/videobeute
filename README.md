@@ -17,16 +17,16 @@ die Idee, einen Bildschirm in eine ausgediente Beute einzubauen. Somit
 war die "Videobeute" als Ausstellungs- und Schulungsobjekt für unseren
 Bienenlehrgarten geboren.
 
-# Material
+# Hardware
 
 - Hinterbehandlungsbeute Deutsch-Normalmaß
 - 14-Zoll Flachbildschirm im Format 4:3
-- zwei kleine Lautsprecher
 - Raspberry Pi 3
 - Waveshare WM8960 Audio­HAT
+- zwei kleine Lautsprecher
+- ggf. zwei Taster zur Lautstärkeregelung
 - USB-Netzteil
 - Verbindungskabel
-- ggf. zwei Taster für Lautstärkeregelung
 
 # Software
 
